@@ -1,5 +1,7 @@
 ### Data visualization from CoinMarketCap using neo4j and python
 
+[Data visualization from coinmarketcap using neo4j and python on medium](https://e271p314.medium.com/data-visualization-from-coinmarketcap-using-neo4j-and-python-49bcae7c8658)
+
 * clone this repository
 * edit `app/main.py`, replace `<YOUR CMC KEY>` with your CMC key
 * build docker, `sudo docker-compose up --build -d`
